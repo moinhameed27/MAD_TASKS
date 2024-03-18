@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Intents</string>
-    <string name="web_browser">Web Browser</string>
-    <string name="email">Email</string>
-    <string name="enter_the_url">URL</string>
-    <string name="enter_the_email">Email</string>
-    <string name="subject">Subject</string>
-</resources>
